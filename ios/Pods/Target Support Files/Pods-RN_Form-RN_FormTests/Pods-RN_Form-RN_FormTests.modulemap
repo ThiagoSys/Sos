@@ -1,0 +1,6 @@
+module Pods_RN_Form_RN_FormTests {
+  umbrella header "Pods-RN_Form-RN_FormTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+com/rn_form/ReactNativeFlipper.java
+ com.rn_form.ReactNativeFlipper
+ com.rn_form.ReactNativeFlipper$1
+ com.rn_form.ReactNativeFlipper$2
+ com.rn_form.ReactNativeFlipper$2$1
+com/rn_form/BuildConfig.java
+ com.rn_form.BuildConfig
+com/rn_form/MainActivity.java
+ com.rn_form.MainActivity
+com/rn_form/MainApplication.java
+ com.rn_form.MainApplication
+ com.rn_form.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
